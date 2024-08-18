@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+        <div style={{ display: 'flex', gap: '10px', marginTop: '20px' }}>
+          <button>Connect</button>
+          <button>Take Action</button>
+        </div>
       </header>
     </div>
   );
