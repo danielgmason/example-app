@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div style={{ display: 'flex', gap: '10px', marginTop: '20px' }}>
-          <button>Connect</button>
+          <button>Connect here</button>
           <button>Take Action</button>
         </div>
       </header>
